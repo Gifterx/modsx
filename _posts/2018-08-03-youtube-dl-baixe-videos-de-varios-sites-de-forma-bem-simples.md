@@ -2,7 +2,7 @@
 layout: post
 date: '2018-08-03 20:58:51'
 title: "Youtube-dl: Baixe vídeos de vários sites de forma bem simples"
-image: /assets/img/thumbnails/youtube-dl-baixe-videos-de-varios-sites-de-forma-bem-simples.png
+image: https://justpaste.it/img/af62407e3c9855099c8736db79281c9d.jpg
 main-class: 'linux'
 color: '#816c9e'
 tags: [linux, youtube-dl]
